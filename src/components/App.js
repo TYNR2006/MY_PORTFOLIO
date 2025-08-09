@@ -1,16 +1,23 @@
 import React from "react";
-import Navbar from "./components/Navbar";
+
 import Hero from "./sections/Hero";
 import About from "./sections/About";
-// Add other sections here like Skills, Projects, etc.
+import Projects from "./sections/Projects";
+import Certifications from "./sections/Certifications";
+import Skills from "./sections/Skills";
+import Experience from "./sections/Experience";
+import Contact from "./sections/Contact";
 
 function App() {
   return (
     <div>
-      <Navbar />
       <Hero />
       <About />
-      {/* Add other sections below */}
+      <Projects />
+      <Certifications />
+      <Skills />
+      <Experience />
+      <Contact />
     </div>
   );
 }

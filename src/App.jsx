@@ -1,16 +1,27 @@
-// src/App.jsx
-import React from "react";
-import Navbar from "./components/Navbar";
-import Hero from "./sections/Hero";
-import About from "./sections/About";
+import React from 'react';
+import Hero from './sections/Hero';
+import Navbar from './components/Navbar';
+import About from './sections/About';
+import Projects from './sections/Projects';
+import Certifications from './sections/Certifications';
+import Skills from './sections/Skills';
+import Experience from './sections/Experience';
+import Contact from './sections/Contact';
 
 const App = () => {
   return (
-    <div>
+    <>
       <Navbar />
-      <Hero />
-      <About /> {/* Make sure this exists */}
-    </div>
+      <main>
+        <Hero id="home" />
+        <About />
+        <Projects />
+        <Certifications />
+        <Skills />
+        <Experience />
+        <Contact />
+      </main>
+    </>
   );
 };
 
