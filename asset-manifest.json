@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tynrportfolio/static/css/main.cc007c79.css",
-    "main.js": "/tynrportfolio/static/js/main.ec0be069.js",
-    "static/media/tynr-logo.png": "/tynrportfolio/static/media/tynr-logo.d5fc56ccd780955f2916.png",
-    "index.html": "/tynrportfolio/index.html",
-    "main.cc007c79.css.map": "/tynrportfolio/static/css/main.cc007c79.css.map",
-    "main.ec0be069.js.map": "/tynrportfolio/static/js/main.ec0be069.js.map"
+    "main.css": "/MY_PORTFOLIO/static/css/main.cc007c79.css",
+    "main.js": "/MY_PORTFOLIO/static/js/main.3f1f8e01.js",
+    "static/media/tynr-logo.png": "/MY_PORTFOLIO/static/media/tynr-logo.d5fc56ccd780955f2916.png",
+    "index.html": "/MY_PORTFOLIO/index.html",
+    "main.cc007c79.css.map": "/MY_PORTFOLIO/static/css/main.cc007c79.css.map",
+    "main.3f1f8e01.js.map": "/MY_PORTFOLIO/static/js/main.3f1f8e01.js.map"
   },
   "entrypoints": [
     "static/css/main.cc007c79.css",
-    "static/js/main.ec0be069.js"
+    "static/js/main.3f1f8e01.js"
   ]
 }
